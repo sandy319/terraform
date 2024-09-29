@@ -1,1 +1,1 @@
-teast terraform
+test terraform
